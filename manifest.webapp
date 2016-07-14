@@ -1,10 +1,10 @@
 {
-  "name": "RPN Calculator",
+  "name": "Calculator",
   "description": "A simple scientific calculator with reverse polish notation",
   "version": "0.9",
   "locales": {
     "en": {
-      "name": "RPN Calculator",
+      "name": "Calculator",
       "description": "A simple scientific calculator with reverse polish notation"
     },
     "de": {
@@ -15,12 +15,7 @@
   "default_locale": "en",
   "launch_path": "/index.html",
   "icons": {
-    "16": "/icons/icon_016.png",
-    "48": "/icons/icon_048.png",
-    "60": "/icons/icon_060.png",
-    "128": "/icons/icon_128.png",
-    "256": "/icons/icon_256.png",
-    "512": "/icons/icon_512.png"
+    "126": "/icons/icon_126.png"
   },
   "developer": {
     "name": "Christiane Ruetten",
